@@ -8,6 +8,6 @@ Software Engineer having knowledge of following:<br>
   Security Analyst<br>
   Entrepreneur <br>
 
-looking to apply skills learnt so far on Architecture to Impact and change for good <br>
+Looking to apply skills learnt so far on Architecture to Impact and change for good <br>
 Connect with me: miteshmehta2018@gmail.com <br>
 
