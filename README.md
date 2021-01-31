@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there, I am Mitesh Metha 👋
+Check profile here: https://miteshmetha.com
+Software Engineer having knowledge of following:
+  Backend Development
+  Web Development
+  Android & Web Pentesting
+  Web Scrapping
+  Security Analyst
+  Entrepreneur 
 
-<!--
-**Meetmetha/Meetmetha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+looking to apply skills learnt so far on Architecture to Impact and change for good
+Connect with me: miteshmehta2018@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
