@@ -18,12 +18,12 @@
 		
 ## <p align="center"><h4 align="center"><samp> I'm a Backend Developer, Security Analyst, Entrepreneur & A Pull Stack Developer </samp></h4></p>
 
-🔭 I’m currently working on at Aiisma INC as Software Engineer
-🥇 Level One Seller on Fiverr ( @miteshmetha )
-✍🏻 I write Tech Snapshots on Twitter & AiiSocial
-👷 I’m Currently learning Core Backend & GraphQL
-😄 Represented Maharashtra at NASA space apps Hackathon
-⚡ I’m working towards being an Entrepreneur
+🔭 I’m currently working on at Aiisma INC as Software Engineer   
+🥇 Level One Seller on Fiverr ( @miteshmetha )   
+✍🏻 I write Tech Snapshots on Twitter & AiiSocial     
+👷 I’m Currently learning Core Backend & GraphQL     
+😄 Represented Maharashtra at NASA space apps Hackathon     
+⚡ I’m working towards being an Entrepreneur     
 
 ##
 <p align="center"> 
