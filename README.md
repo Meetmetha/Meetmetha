@@ -1,4 +1,4 @@
-## Hey Everyone! I'm [Aman Kumar Dewangan a.k.a AkD!](https://github.com/Meetmetha) <img src="https://github.com/Meetmetha/Meetmetha/blob/main/Hi.gif" width="20px">
+## Hey Everyone! I'm [Mitesh Metha](https://github.com/Meetmetha) <img src="https://github.com/Meetmetha/Meetmetha/blob/main/Hi.gif" width="20px">
 <br><br>
 <a href="https://twitter.com/miteshmetha">
   <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
