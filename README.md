@@ -20,7 +20,7 @@
 
 🔭 I’m currently working on at Wayfareadvent Pvt ltd as Backend Engineer SDE1   
 🥇 Level One Seller on Fiverr ( @miteshmetha )   
-✍🏻 I write Tech Snapshots on Twitter & AiiSocial     
+✍🏻 I write Tech Snapshots on Twitter & Heyoye    
 👷 I’m Currently learning Core Backend & GraphQL     
 😄 Represented Maharashtra at NASA space apps Hackathon     
 ⚡ I’m working towards being an Entrepreneur     
