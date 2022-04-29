@@ -18,7 +18,7 @@
 		
 ## <p align="center"><h4 align="center"><samp> I'm a Backend Developer, Security Analyst, Entrepreneur & A Pull Stack Developer </samp></h4></p>
 
-🔭 I’m currently working on at Wayfareadvent Pvt ltd as Backend Engineer SDE1   
+🔭 I’m currently working on at Dehidden.com as Technical Product Manager  
 🥇 Level One Seller on Fiverr ( @miteshmetha )   
 ✍🏻 I write Tech Snapshots on Twitter & Heyoye    
 👷 I’m Currently learning Core Backend & GraphQL     
