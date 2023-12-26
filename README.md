@@ -19,7 +19,7 @@
 ## <p align="center"><h4 align="center"><samp> I'm a Backend Developer, Smart-contract Developer, Security Analyst, Entrepreneur & A Pull Stack Developer (I pull the code of internet) </samp></h4></p>
 
 🔭 I’m currently working as Freelancer </br>
-💪 Into Smartcontracts, EVM's and Web3
+💪 Into Smartcontracts, EVM's and Web3 </br>
 🥇 Level One Seller on Fiverr ( @miteshmetha )   
 ✍🏻 I write Tech Snapshots on Twitter   
 👷 I’m Currently learning core EVM    
