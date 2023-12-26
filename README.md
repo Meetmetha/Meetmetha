@@ -16,12 +16,13 @@
   <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 		
-## <p align="center"><h4 align="center"><samp> I'm a Backend Developer, Security Analyst, Entrepreneur & A Pull Stack Developer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> I'm a Backend Developer, Smart-contract Developer, Security Analyst, Entrepreneur & A Pull Stack Developer (I pull the code of internet) </samp></h4></p>
 
-🔭 I’m currently working on at Dehidden.com as Technical Product Manager  
+🔭 I’m currently working as Freelancer
+💪 Into Smartcontracts, EVM's and Web3
 🥇 Level One Seller on Fiverr ( @miteshmetha )   
-✍🏻 I write Tech Snapshots on Twitter & Heyoye    
-👷 I’m Currently learning Core Backend & GraphQL     
+✍🏻 I write Tech Snapshots on Twitter   
+👷 I’m Currently learning core EVM    
 😄 Represented Maharashtra at NASA space apps Hackathon     
 ⚡ I’m working towards being an Entrepreneur     
 
